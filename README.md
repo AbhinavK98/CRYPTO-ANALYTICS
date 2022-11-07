@@ -15,7 +15,7 @@ This is Crypto analytics react web app which has below features-:
 - [React JS](https://reactjs.org/)
 - [Material UI](https://v4.mui.com/)
 - [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
-- [API]((https://www.coingecko.com/en/api/documentation)
+- [API](https://www.coingecko.com/en/api/documentation)
 - [Firebase](https://firebase.google.com/)
 
 
