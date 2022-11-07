@@ -11,11 +11,11 @@ This is Crypto analytics react web app which has below features-:
 - User can add/remove the coin to watchlist.
 
 ## Built with 
-- [HTML,CSS,JAVASCRIPT]
+- [HTML,CSS,JAVASCRIPT](https://developer.mozilla.org/en-US/)
 - [React JS](https://reactjs.org/)
 - [Material UI](https://v4.mui.com/)
 - [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
-- [API](api.coingecko.com)
+- [API]([api.coingecko.com](https://www.coingecko.com/en/api/documentation))
 - [Firebase](https://firebase.google.com/)
 
 
@@ -43,5 +43,7 @@ DEMO
 
 ![Crypto 5](https://user-images.githubusercontent.com/48747218/200301356-8166b259-efa4-41f5-92a8-a7b5b87cf0cf.png)
 
+
+MADE WITH ❤️ by -Abhinav Kumar.
 
 
