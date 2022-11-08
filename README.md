@@ -24,7 +24,7 @@ This is Crypto analytics react web app which has below features-:
 #### Here is a working live demo :  https://crypto-analytics.netlify.app/
 
 
-##LIVE DEMO
+## LIVE DEMO
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/48747218/200301471-75517ec2-50d4-4842-80f3-8cdc7ae9aee5.gif)
 DEMO
 
