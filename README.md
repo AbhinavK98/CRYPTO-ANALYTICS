@@ -44,6 +44,6 @@ DEMO
 ![Crypto 5](https://user-images.githubusercontent.com/48747218/200301356-8166b259-efa4-41f5-92a8-a7b5b87cf0cf.png)
 
 
-MADE WITH ❤️ by -Abhinav Kumar.
+
 
 
